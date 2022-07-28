@@ -349,7 +349,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 12,
     borderRadius: 5,
-    marginTop:20,
+    marginTop:30,
     marginVertical: 5,
     flexDirection: "row",
     alignItems: "center",
