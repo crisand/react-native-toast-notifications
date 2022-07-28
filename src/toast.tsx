@@ -349,6 +349,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 12,
     borderRadius: 5,
+    marginTop:20,
     marginVertical: 5,
     flexDirection: "row",
     alignItems: "center",
